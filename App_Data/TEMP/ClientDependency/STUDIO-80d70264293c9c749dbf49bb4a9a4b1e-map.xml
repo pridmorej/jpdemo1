@@ -168,4 +168,17 @@
       <file name="/umbraco_client/Dashboards/ExamineManagement.js" />
     </files>
   </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjb19jbGllbnQvR2VuZXJpY1Byb3BlcnR5L2dlbmVyaWNwcm9wZXJ0eS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RkLmNzczs" file="C:\Users\jeremy\Documents\My Web Sites\jpdemo1\App_Data\TEMP\ClientDependency\2055805655_5db0eaeb68b649ea8f1d0517d31f3670.cdC" compression="gzip" version="2055805655">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco_client/GenericProperty/genericproperty.css" />
+      <file name="/umbraco_client/ui/dd.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0dlbmVyaWNQcm9wZXJ0eS9nZW5lcmljcHJvcGVydHkuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5kZC5qczs" file="C:\Users\jeremy\Documents\My Web Sites\jpdemo1\App_Data\TEMP\ClientDependency\2055805655_9f69311e1e2046b4ae77d68a05bd7a4f.cdJ" compression="gzip" version="2055805655">
+    <files>
+      <file name="/umbraco_client/GenericProperty/genericproperty.js" />
+      <file name="/umbraco_client/ui/jquery.dd.js" />
+    </files>
+  </item>
 </map>

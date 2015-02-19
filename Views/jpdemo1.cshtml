@@ -1,0 +1,29 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "umbLayout.cshtml";
+
+    var pageTitle = string.IsNullOrWhiteSpace(CurrentPage.Title)
+        ? CurrentPage.Name
+        : CurrentPage.Title;  
+}
+<div id="main-wrapper">
+    <div id="main" class="container">
+        <div class="row">
+            <div class="9u skel-cell-mainContent">
+                <div class="content content-left">
+                    <!-- Content -->
+                    <article class="is-page-content">
+                        <header>
+                            <h2>@pageTitle</h2>
+                        </header>
+                        <section>
+                            @CurrentPage.Description
+                        </section>                           
+                    </article>
+                    <!-- /Content -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /Main -->
