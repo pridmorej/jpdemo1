@@ -2,3 +2,5 @@
 @{
     Layout = "umbLayout.cshtml";
 }
+
+@Html.Partial("ContactForm", new jpdemo1.Models.ContactModel(Model.Content.GetPropertyValue<int>("thankyoupage")))
